@@ -1,3 +1,4 @@
+package tasks;
 /*
  * 
  *    Observe o trecho de código abaixo:
@@ -24,9 +25,6 @@
  * 
  * 
  */
-
-
-
 public class Task01 {
     public static void main(String[] args) {
         int INDICE = 13, SOMA = 0, K = 0;
