@@ -51,5 +51,5 @@ Para clonar este repositório, siga as instruções abaixo:
 3. Execute o seguinte comando:
 
 ```
-git clone https://github.com/AndersonSantos07/TesteTecnicoTarget/tree/main
+git clone https://github.com/AndersonSantos07/TesteTecnicoTarget
 ```
